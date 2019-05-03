@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EVLab2_PDM_00011417</string>
+    <string name="hello_blank_fragment">hell</string>
+        <string name="text_action">text</string>
+    <string name="prev">PREVIOUS</string>
+    <string name="next">FORWARD</string>
 </resources>
